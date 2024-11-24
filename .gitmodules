@@ -1,0 +1,3 @@
+[submodule "Book-RestApi"]
+	path = Book-RestApi
+	url = https://github.com/E-Rick-M/Book-RestApi.git
